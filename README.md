@@ -24,8 +24,7 @@ Sekolahku adalah aplikasi manajemen sekolah berbasis website yang di bangun dan 
 ## Package
 - [IndoBank](https://github.com/andes2912/indobank) package Laravel untuk menyimpan data Nama Bank yang ada di Indonesia
 
-Note : Aplikasi ini akan terus saya update.<br>
-Jika ada pertanyaan bisa kontak aku di email ini <b>andridesmana29@outlook.com</b>
+Note : Aplikasi ini akan terus update.
 </p>
 
 
